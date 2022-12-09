@@ -1,5 +1,5 @@
 if (instance_exists(obj_dataCarry)){
-	// for Tejas - keys will be persistent from one room to the next
+	// tejas again
 	// keys = obj_dataCarry.keys;
 	targetEnter = obj_dataCarry.targetEnter;
 	
@@ -10,4 +10,4 @@ if (instance_exists(obj_dataCarry)){
 		x = targetEnter.x;
 		y = targetEnter.y;
 	}
-} else targetEnter = 0; // prevents crash when exiting game before entering a room
+}
