@@ -7,7 +7,7 @@
     "path": "sprites/spr_enterDoor/spr_enterDoor.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
