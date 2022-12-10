@@ -30,7 +30,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "software_sadists",
-    "path": "software_sadists.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

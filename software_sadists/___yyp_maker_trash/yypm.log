@@ -1,0 +1,562 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[09-12-2022 21:21:54] Initialized GameMaker Project: software_sadists.yyp
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/animcurves
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/extensions
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/fonts
+[09-12-2022 21:21:54] Checking dmgFont
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/fonts/dmgFont
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/fonts/dmgFont
+[09-12-2022 21:21:54] Checking dmgFont.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/fonts/dmgFont/dmgFont.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/fonts/dmgFont/dmgFont.yy
+[09-12-2022 21:21:54] Par: "folders/Fonts" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/fonts/dmgFont/dmgFont.yy"
+[09-12-2022 21:21:54] Found Font: dmgFont
+[09-12-2022 21:21:54] Checking dmgFont.png
+[09-12-2022 21:21:54] Checking dmgFont.old.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/notes
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects
+[09-12-2022 21:21:54] Checking obj_wall
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_wall
+[09-12-2022 21:21:54] Checking obj_stairs
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_stairs
+[09-12-2022 21:21:54] Checking obj_player
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_player
+[09-12-2022 21:21:54] Checking obj_pgun
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pgun
+[09-12-2022 21:21:54] Checking obj_pbullet
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pbullet
+[09-12-2022 21:21:54] Checking obj_gun
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_gun
+[09-12-2022 21:21:54] Checking obj_enterDoor
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enterDoor
+[09-12-2022 21:21:54] Checking obj_enemy
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enemy
+[09-12-2022 21:21:54] Checking obj_egun
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_egun
+[09-12-2022 21:21:54] Checking obj_ebullet
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_ebullet
+[09-12-2022 21:21:54] Checking obj_door
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_door
+[09-12-2022 21:21:54] Checking obj_dataCarry
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_dataCarry
+[09-12-2022 21:21:54] Checking health_up
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_up
+[09-12-2022 21:21:54] Checking health_popup
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_popup
+[09-12-2022 21:21:54] Checking game_control
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/game_control
+[09-12-2022 21:21:54] Checking boss_key
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/boss_key
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/boss_key
+[09-12-2022 21:21:54] Checking boss_key.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/boss_key/boss_key.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/boss_key/boss_key.yy
+[09-12-2022 21:21:54] Par: "folders/Objects/Items" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/boss_key/boss_key.yy"
+[09-12-2022 21:21:54] Found Object: boss_key
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/game_control
+[09-12-2022 21:21:54] Checking game_control.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/game_control/game_control.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/game_control/game_control.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/game_control/game_control.yy"
+[09-12-2022 21:21:54] Found Object: game_control
+[09-12-2022 21:21:54] Checking Create_0.gml
+[09-12-2022 21:21:54] Checking CleanUp_0.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_popup
+[09-12-2022 21:21:54] Checking Step_0.gml
+[09-12-2022 21:21:54] Checking health_popup.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_popup/health_popup.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_popup/health_popup.yy
+[09-12-2022 21:21:54] Par: "folders/Objects/Items" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_popup/health_popup.yy"
+[09-12-2022 21:21:54] Found Object: health_popup
+[09-12-2022 21:21:54] Checking Draw_0.gml
+[09-12-2022 21:21:54] Checking Create_0.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_up
+[09-12-2022 21:21:54] Checking health_up.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_up/health_up.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_up/health_up.yy
+[09-12-2022 21:21:54] Par: "folders/Objects/Items" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/health_up/health_up.yy"
+[09-12-2022 21:21:54] Found Object: health_up
+[09-12-2022 21:21:54] Checking Create_0.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_dataCarry
+[09-12-2022 21:21:54] Checking obj_dataCarry.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_dataCarry/obj_dataCarry.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_dataCarry/obj_dataCarry.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_dataCarry/obj_dataCarry.yy"
+[09-12-2022 21:21:54] Found Object: obj_dataCarry
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_door
+[09-12-2022 21:21:54] Checking obj_door.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_door/obj_door.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_door/obj_door.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_door/obj_door.yy"
+[09-12-2022 21:21:54] Found Object: obj_door
+[09-12-2022 21:21:54] Checking Collision_obj_player.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_ebullet
+[09-12-2022 21:21:54] Checking obj_ebullet.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_ebullet/obj_ebullet.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_ebullet/obj_ebullet.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_ebullet/obj_ebullet.yy"
+[09-12-2022 21:21:54] Found Object: obj_ebullet
+[09-12-2022 21:21:54] Checking Draw_77.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_egun
+[09-12-2022 21:21:54] Checking Step_1.gml
+[09-12-2022 21:21:54] Checking obj_egun.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_egun/obj_egun.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_egun/obj_egun.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_egun/obj_egun.yy"
+[09-12-2022 21:21:54] Found Object: obj_egun
+[09-12-2022 21:21:54] Checking Create_0.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enemy
+[09-12-2022 21:21:54] Checking obj_enemy.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enemy/obj_enemy.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enemy/obj_enemy.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enemy/obj_enemy.yy"
+[09-12-2022 21:21:54] Found Object: obj_enemy
+[09-12-2022 21:21:54] Checking Create_0.gml
+[09-12-2022 21:21:54] Checking Collision_obj_pbullet.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enterDoor
+[09-12-2022 21:21:54] Checking obj_enterDoor.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enterDoor/obj_enterDoor.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enterDoor/obj_enterDoor.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_enterDoor/obj_enterDoor.yy"
+[09-12-2022 21:21:54] Found Object: obj_enterDoor
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_gun
+[09-12-2022 21:21:54] Checking Step_1.gml
+[09-12-2022 21:21:54] Checking obj_gun.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_gun/obj_gun.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_gun/obj_gun.yy
+[09-12-2022 21:21:54] ROOT found, not added.
+[09-12-2022 21:21:54] Par: "folders" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_gun/obj_gun.yy"
+[09-12-2022 21:21:54] Found Object: obj_gun
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pbullet
+[09-12-2022 21:21:54] Checking obj_pbullet.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pbullet/obj_pbullet.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pbullet/obj_pbullet.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pbullet/obj_pbullet.yy"
+[09-12-2022 21:21:54] Found Object: obj_pbullet
+[09-12-2022 21:21:54] Checking Draw_77.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pgun
+[09-12-2022 21:21:54] Checking Step_1.gml
+[09-12-2022 21:21:54] Checking obj_pgun.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pgun/obj_pgun.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pgun/obj_pgun.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_pgun/obj_pgun.yy"
+[09-12-2022 21:21:54] Found Object: obj_pgun
+[09-12-2022 21:21:54] Checking Create_0.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_player
+[09-12-2022 21:21:54] Checking Step_0.gml
+[09-12-2022 21:21:54] Checking Other_5.gml
+[09-12-2022 21:21:54] Checking Other_4.gml
+[09-12-2022 21:21:54] Checking obj_player.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_player/obj_player.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_player/obj_player.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_player/obj_player.yy"
+[09-12-2022 21:21:54] Found Object: obj_player
+[09-12-2022 21:21:54] Checking Create_0.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_stairs
+[09-12-2022 21:21:54] Checking obj_stairs.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_stairs/obj_stairs.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_stairs/obj_stairs.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_stairs/obj_stairs.yy"
+[09-12-2022 21:21:54] Found Object: obj_stairs
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_wall
+[09-12-2022 21:21:54] Checking obj_wall.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_wall/obj_wall.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_wall/obj_wall.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/objects/obj_wall/obj_wall.yy"
+[09-12-2022 21:21:54] Found Object: obj_wall
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options
+[09-12-2022 21:21:54] Checking windows
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/windows
+[09-12-2022 21:21:54] Checking operagx
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/operagx
+[09-12-2022 21:21:54] Checking main
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/main
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/main
+[09-12-2022 21:21:54] Checking options_main.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/main/options_main.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/main/options_main.yy
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/operagx
+[09-12-2022 21:21:54] Checking options_operagx.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/operagx/options_operagx.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/operagx/options_operagx.yy
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/windows
+[09-12-2022 21:21:54] Checking options_windows.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/windows/options_windows.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/options/windows/options_windows.yy
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/paths
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms
+[09-12-2022 21:21:54] Checking room_west
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_west
+[09-12-2022 21:21:54] Checking room_northeast
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_northeast
+[09-12-2022 21:21:54] Checking room4
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room4
+[09-12-2022 21:21:54] Checking room3
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room3
+[09-12-2022 21:21:54] Checking room2
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room2
+[09-12-2022 21:21:54] Checking room1
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room1
+[09-12-2022 21:21:54] Checking floor2
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor2
+[09-12-2022 21:21:54] Checking floor1
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor1
+[09-12-2022 21:21:54] Checking bossroom
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/bossroom
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/bossroom
+[09-12-2022 21:21:54] Checking bossroom.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/bossroom/bossroom.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/bossroom/bossroom.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/second floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/bossroom/bossroom.yy"
+[09-12-2022 21:21:54] Found Room: bossroom
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor1
+[09-12-2022 21:21:54] Checking floor1.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor1/floor1.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor1/floor1.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/first floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor1/floor1.yy"
+[09-12-2022 21:21:54] Found Room: floor1
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor2
+[09-12-2022 21:21:54] Checking floor2.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor2/floor2.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor2/floor2.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/second floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/floor2/floor2.yy"
+[09-12-2022 21:21:54] Found Room: floor2
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room1
+[09-12-2022 21:21:54] Checking room1.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room1/room1.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room1/room1.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/first floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room1/room1.yy"
+[09-12-2022 21:21:54] Found Room: room1
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room2
+[09-12-2022 21:21:54] Checking room2.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room2/room2.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room2/room2.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/first floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room2/room2.yy"
+[09-12-2022 21:21:54] Found Room: room2
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room3
+[09-12-2022 21:21:54] Checking room3.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room3/room3.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room3/room3.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/first floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room3/room3.yy"
+[09-12-2022 21:21:54] Found Room: room3
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room4
+[09-12-2022 21:21:54] Checking room4.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room4/room4.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room4/room4.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/first floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room4/room4.yy"
+[09-12-2022 21:21:54] Found Room: room4
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_northeast
+[09-12-2022 21:21:54] Checking room_northeast.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_northeast/room_northeast.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_northeast/room_northeast.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/second floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_northeast/room_northeast.yy"
+[09-12-2022 21:21:54] Found Room: room_northeast
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_west
+[09-12-2022 21:21:54] Checking room_west.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_west/room_west.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_west/room_west.yy
+[09-12-2022 21:21:54] Par: "folders/Rooms/second floor rooms" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/rooms/room_west/room_west.yy"
+[09-12-2022 21:21:54] Found Room: room_west
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/scripts
+[09-12-2022 21:21:54] Checking part_init
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/scripts/part_init
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/scripts/part_init
+[09-12-2022 21:21:54] Checking part_init.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/scripts/part_init/part_init.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/scripts/part_init/part_init.yy
+[09-12-2022 21:21:54] Par: "folders/Scripts" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/scripts/part_init/part_init.yy"
+[09-12-2022 21:21:54] Found Script: part_init
+[09-12-2022 21:21:54] Checking part_init.gml
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sequences
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/shaders
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sounds
+[09-12-2022 21:21:54] Checking health_up_drink
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sounds/health_up_drink
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sounds/health_up_drink
+[09-12-2022 21:21:54] Checking health_up_drink.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sounds/health_up_drink/health_up_drink.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sounds/health_up_drink/health_up_drink.yy
+[09-12-2022 21:21:54] Par: "folders/Sounds" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sounds/health_up_drink/health_up_drink.yy"
+[09-12-2022 21:21:54] Found Sound: health_up_drink
+[09-12-2022 21:21:54] Checking health_up_drink.wav
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites
+[09-12-2022 21:21:54] Checking spr_wall
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall
+[09-12-2022 21:21:54] Checking spr_tiling
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling
+[09-12-2022 21:21:54] Checking spr_stair
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair
+[09-12-2022 21:21:54] Checking spr_player
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player
+[09-12-2022 21:21:54] Checking spr_pgun
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun
+[09-12-2022 21:21:54] Checking spr_pbullet
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet
+[09-12-2022 21:21:54] Checking spr_enterDoor
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor
+[09-12-2022 21:21:54] Checking spr_enemy
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy
+[09-12-2022 21:21:54] Checking spr_ebullet
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet
+[09-12-2022 21:21:54] Checking spr_door
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door
+[09-12-2022 21:21:54] Checking Sprite4
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4
+[09-12-2022 21:21:54] Checking Sprite3
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3
+[09-12-2022 21:21:54] Checking Sprite10
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10
+[09-12-2022 21:21:54] Checking health_particles
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles
+[09-12-2022 21:21:54] Checking health_particle
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers
+[09-12-2022 21:21:54] Checking health_particle.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/health_particle.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/health_particle.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/health_particle.yy"
+[09-12-2022 21:21:54] Found Sprite: health_particle
+[09-12-2022 21:21:54] Checking f761c6d5-ac4e-4438-8e52-2a193b454b55.png
+[09-12-2022 21:21:54] Checking e9f1bbf6-84f3-406f-a838-c73684f7c270.png
+[09-12-2022 21:21:54] Checking bf96cb72-775e-4be6-8b4c-07a8817a0211.png
+[09-12-2022 21:21:54] Checking 56cd3b01-501f-4394-ade6-0f12223a11ae.png
+[09-12-2022 21:21:54] Checking 11a0f9de-aece-4f15-9234-a60d2d13c2d0.png
+[09-12-2022 21:21:54] Checking 071d3b7a-6e89-4ec2-b8a6-2cd72e7d6bc6.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers
+[09-12-2022 21:21:54] Checking f761c6d5-ac4e-4438-8e52-2a193b454b55
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/f761c6d5-ac4e-4438-8e52-2a193b454b55
+[09-12-2022 21:21:54] Checking e9f1bbf6-84f3-406f-a838-c73684f7c270
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/e9f1bbf6-84f3-406f-a838-c73684f7c270
+[09-12-2022 21:21:54] Checking bf96cb72-775e-4be6-8b4c-07a8817a0211
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/bf96cb72-775e-4be6-8b4c-07a8817a0211
+[09-12-2022 21:21:54] Checking 56cd3b01-501f-4394-ade6-0f12223a11ae
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/56cd3b01-501f-4394-ade6-0f12223a11ae
+[09-12-2022 21:21:54] Checking 11a0f9de-aece-4f15-9234-a60d2d13c2d0
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/11a0f9de-aece-4f15-9234-a60d2d13c2d0
+[09-12-2022 21:21:54] Checking 071d3b7a-6e89-4ec2-b8a6-2cd72e7d6bc6
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/071d3b7a-6e89-4ec2-b8a6-2cd72e7d6bc6
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/071d3b7a-6e89-4ec2-b8a6-2cd72e7d6bc6
+[09-12-2022 21:21:54] Checking da6ef4ed-fa62-445a-9e13-68632ff1762c.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/11a0f9de-aece-4f15-9234-a60d2d13c2d0
+[09-12-2022 21:21:54] Checking f44fc3b3-b6df-443d-97c7-64568825c5a2.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/56cd3b01-501f-4394-ade6-0f12223a11ae
+[09-12-2022 21:21:54] Checking f44fc3b3-b6df-443d-97c7-64568825c5a2.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/bf96cb72-775e-4be6-8b4c-07a8817a0211
+[09-12-2022 21:21:54] Checking f44fc3b3-b6df-443d-97c7-64568825c5a2.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/e9f1bbf6-84f3-406f-a838-c73684f7c270
+[09-12-2022 21:21:54] Checking 75603ade-dd8b-4625-a80c-f97e1fdd78b9.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particle/layers/f761c6d5-ac4e-4438-8e52-2a193b454b55
+[09-12-2022 21:21:54] Checking f44fc3b3-b6df-443d-97c7-64568825c5a2.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles/layers
+[09-12-2022 21:21:54] Checking health_particles.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles/health_particles.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles/health_particles.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles/health_particles.yy"
+[09-12-2022 21:21:54] Found Sprite: health_particles
+[09-12-2022 21:21:54] Checking 89a82779-6f76-4073-9129-a5d34c8ca079.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles/layers
+[09-12-2022 21:21:54] Checking 89a82779-6f76-4073-9129-a5d34c8ca079
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles/layers/89a82779-6f76-4073-9129-a5d34c8ca079
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/health_particles/layers/89a82779-6f76-4073-9129-a5d34c8ca079
+[09-12-2022 21:21:54] Checking a3c8d381-0bfc-4b91-ad85-3c534e813d7e.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10
+[09-12-2022 21:21:54] Checking Sprite10.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10/Sprite10.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10/Sprite10.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10/Sprite10.yy"
+[09-12-2022 21:21:54] Found Sprite: Sprite10
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10/layers
+[09-12-2022 21:21:54] Checking 06629bf9-079c-4a4b-8ef5-d103eee81e71.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10/layers
+[09-12-2022 21:21:54] Checking 06629bf9-079c-4a4b-8ef5-d103eee81e71
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10/layers/06629bf9-079c-4a4b-8ef5-d103eee81e71
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite10/layers/06629bf9-079c-4a4b-8ef5-d103eee81e71
+[09-12-2022 21:21:54] Checking 1091b86a-9ecb-4d64-ba3e-71da0a5dd716.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3
+[09-12-2022 21:21:54] Checking Sprite3.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3/Sprite3.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3/Sprite3.yy
+[09-12-2022 21:21:54] Par: "folders/Objects/Items" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3/Sprite3.yy"
+[09-12-2022 21:21:54] Found Sprite: Sprite3
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3/layers
+[09-12-2022 21:21:54] Checking 73f6e0f2-65f7-4537-8679-2e3b3d76cb12.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3/layers
+[09-12-2022 21:21:54] Checking 73f6e0f2-65f7-4537-8679-2e3b3d76cb12
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3/layers/73f6e0f2-65f7-4537-8679-2e3b3d76cb12
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite3/layers/73f6e0f2-65f7-4537-8679-2e3b3d76cb12
+[09-12-2022 21:21:54] Checking 1bbab5b3-adef-4129-9675-3da09bc0dd42.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4
+[09-12-2022 21:21:54] Checking Sprite4.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/Sprite4.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/Sprite4.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/Sprite4.yy"
+[09-12-2022 21:21:54] Found Sprite: Sprite4
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/layers
+[09-12-2022 21:21:54] Checking 5a2b5a55-c13e-41e0-b9dc-ac2cb1af19af.png
+[09-12-2022 21:21:54] Checking 494e24db-620c-4999-97a8-3e6a22802f99.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/layers
+[09-12-2022 21:21:54] Checking 5a2b5a55-c13e-41e0-b9dc-ac2cb1af19af
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/layers/5a2b5a55-c13e-41e0-b9dc-ac2cb1af19af
+[09-12-2022 21:21:54] Checking 494e24db-620c-4999-97a8-3e6a22802f99
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/layers/494e24db-620c-4999-97a8-3e6a22802f99
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/layers/494e24db-620c-4999-97a8-3e6a22802f99
+[09-12-2022 21:21:54] Checking 8b2c6098-cd09-4b71-9a59-f41c0587a35c.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/Sprite4/layers/5a2b5a55-c13e-41e0-b9dc-ac2cb1af19af
+[09-12-2022 21:21:54] Checking 141c742c-b26e-4017-8f28-039454bee813.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door
+[09-12-2022 21:21:54] Checking spr_door.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door/spr_door.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door/spr_door.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door/spr_door.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_door
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door/layers
+[09-12-2022 21:21:54] Checking 7b829eac-93e5-4c23-bd1d-b92f7d260b99.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door/layers
+[09-12-2022 21:21:54] Checking 7b829eac-93e5-4c23-bd1d-b92f7d260b99
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door/layers/7b829eac-93e5-4c23-bd1d-b92f7d260b99
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_door/layers/7b829eac-93e5-4c23-bd1d-b92f7d260b99
+[09-12-2022 21:21:54] Checking 587d6eee-bf69-49d6-b597-88312f69562f.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet
+[09-12-2022 21:21:54] Checking spr_ebullet.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet/spr_ebullet.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet/spr_ebullet.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet/spr_ebullet.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_ebullet
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet/layers
+[09-12-2022 21:21:54] Checking 642f3b71-ccac-421f-80c2-b49b8abf0c55.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet/layers
+[09-12-2022 21:21:54] Checking 642f3b71-ccac-421f-80c2-b49b8abf0c55
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet/layers/642f3b71-ccac-421f-80c2-b49b8abf0c55
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_ebullet/layers/642f3b71-ccac-421f-80c2-b49b8abf0c55
+[09-12-2022 21:21:54] Checking 67b67b9a-1b83-45a2-8357-f2b79ad5919f.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy
+[09-12-2022 21:21:54] Checking spr_enemy.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy/spr_enemy.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy/spr_enemy.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy/spr_enemy.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_enemy
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy/layers
+[09-12-2022 21:21:54] Checking ce86818b-0a9e-42e8-98f1-12a8e55df29e.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy/layers
+[09-12-2022 21:21:54] Checking ce86818b-0a9e-42e8-98f1-12a8e55df29e
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy/layers/ce86818b-0a9e-42e8-98f1-12a8e55df29e
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enemy/layers/ce86818b-0a9e-42e8-98f1-12a8e55df29e
+[09-12-2022 21:21:54] Checking 792c24ab-d83d-4593-a103-cbca66bfcc39.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor
+[09-12-2022 21:21:54] Checking spr_enterDoor.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor/spr_enterDoor.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor/spr_enterDoor.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor/spr_enterDoor.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_enterDoor
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor/layers
+[09-12-2022 21:21:54] Checking 07003bad-4a78-4337-95c9-610c8fef7b22.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor/layers
+[09-12-2022 21:21:54] Checking 07003bad-4a78-4337-95c9-610c8fef7b22
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor/layers/07003bad-4a78-4337-95c9-610c8fef7b22
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_enterDoor/layers/07003bad-4a78-4337-95c9-610c8fef7b22
+[09-12-2022 21:21:54] Checking a71def35-c242-4a8a-8c72-eb5dc0bde30b.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet
+[09-12-2022 21:21:54] Checking spr_pbullet.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet/spr_pbullet.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet/spr_pbullet.yy
+[09-12-2022 21:21:54] Par: "folders/Objects" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet/spr_pbullet.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_pbullet
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet/layers
+[09-12-2022 21:21:54] Checking e4d087e8-a6e2-4623-96a3-f0c61d0620b4.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet/layers
+[09-12-2022 21:21:54] Checking e4d087e8-a6e2-4623-96a3-f0c61d0620b4
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet/layers/e4d087e8-a6e2-4623-96a3-f0c61d0620b4
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pbullet/layers/e4d087e8-a6e2-4623-96a3-f0c61d0620b4
+[09-12-2022 21:21:54] Checking fe12b6c5-316b-496c-bfa3-c73ed038d723.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun
+[09-12-2022 21:21:54] Checking spr_pgun.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun/spr_pgun.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun/spr_pgun.yy
+[09-12-2022 21:21:54] ROOT found, not added.
+[09-12-2022 21:21:54] Par: "folders" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun/spr_pgun.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_pgun
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun/layers
+[09-12-2022 21:21:54] Checking f1dbcd6b-336c-4859-a997-d4671bdb2d05.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun/layers
+[09-12-2022 21:21:54] Checking f1dbcd6b-336c-4859-a997-d4671bdb2d05
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun/layers/f1dbcd6b-336c-4859-a997-d4671bdb2d05
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_pgun/layers/f1dbcd6b-336c-4859-a997-d4671bdb2d05
+[09-12-2022 21:21:54] Checking dc47209d-f46f-4a69-b2e8-6e98898549f1.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player
+[09-12-2022 21:21:54] Checking spr_player.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player/spr_player.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player/spr_player.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player/spr_player.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_player
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player/layers
+[09-12-2022 21:21:54] Checking e1b43a86-491b-4f6c-9785-45da8d0dcab5.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player/layers
+[09-12-2022 21:21:54] Checking e1b43a86-491b-4f6c-9785-45da8d0dcab5
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player/layers/e1b43a86-491b-4f6c-9785-45da8d0dcab5
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_player/layers/e1b43a86-491b-4f6c-9785-45da8d0dcab5
+[09-12-2022 21:21:54] Checking d92bed0a-61dc-4672-a243-a49440a62ee9.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair
+[09-12-2022 21:21:54] Checking spr_stair.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair/spr_stair.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair/spr_stair.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair/spr_stair.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_stair
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair/layers
+[09-12-2022 21:21:54] Checking fccaf00e-59fc-4e24-b43d-27a8a061727e.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair/layers
+[09-12-2022 21:21:54] Checking fccaf00e-59fc-4e24-b43d-27a8a061727e
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair/layers/fccaf00e-59fc-4e24-b43d-27a8a061727e
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_stair/layers/fccaf00e-59fc-4e24-b43d-27a8a061727e
+[09-12-2022 21:21:54] Checking 6e13a42f-1f7e-47d2-81b3-5c74df52bc1a.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling
+[09-12-2022 21:21:54] Checking spr_tiling.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling/spr_tiling.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling/spr_tiling.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling/spr_tiling.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_tiling
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling/layers
+[09-12-2022 21:21:54] Checking 7e9dfcdf-c76b-4b77-afdf-3fcb2e0615b6.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling/layers
+[09-12-2022 21:21:54] Checking 7e9dfcdf-c76b-4b77-afdf-3fcb2e0615b6
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling/layers/7e9dfcdf-c76b-4b77-afdf-3fcb2e0615b6
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_tiling/layers/7e9dfcdf-c76b-4b77-afdf-3fcb2e0615b6
+[09-12-2022 21:21:54] Checking c763d36a-5e6c-4a26-8788-fe19f76de4cd.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall
+[09-12-2022 21:21:54] Checking spr_wall.yy
+[09-12-2022 21:21:54] Parsing C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall/spr_wall.yy
+[09-12-2022 21:21:54] Reading C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall/spr_wall.yy
+[09-12-2022 21:21:54] Par: "folders/Sprites" at dir: "C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall/spr_wall.yy"
+[09-12-2022 21:21:54] Found Sprite: spr_wall
+[09-12-2022 21:21:54] Checking layers
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall/layers
+[09-12-2022 21:21:54] Checking 7b57342c-39fb-42b2-9426-84fad767c6ff.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall/layers
+[09-12-2022 21:21:54] Checking 7b57342c-39fb-42b2-9426-84fad767c6ff
+[09-12-2022 21:21:54] Directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall/layers/7b57342c-39fb-42b2-9426-84fad767c6ff
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/sprites/spr_wall/layers/7b57342c-39fb-42b2-9426-84fad767c6ff
+[09-12-2022 21:21:54] Checking f648b149-fdcb-46be-b7cb-99d2ffb49400.png
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/tilesets
+[09-12-2022 21:21:54] Current parent directory: C:/Users/adamp/Documents/GameMakerStudio2/ec327_proj/software_sadists/timelines
+[09-12-2022 21:21:54] Moving files to trash...
+[09-12-2022 21:21:54] Files yeeted successfully!
+[09-12-2022 21:21:54] Generating YYP...
+[09-12-2022 21:21:54] software_sadists.yyp created successfully!

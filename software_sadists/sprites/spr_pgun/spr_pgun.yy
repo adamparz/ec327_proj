@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "software_sadists",
-    "path": "software_sadists.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
