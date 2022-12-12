@@ -7,3 +7,4 @@ To build the project you enter GameMaker, you press the play button circled in r
 
 ![image](https://user-images.githubusercontent.com/88911862/207124803-37e3137b-e7a5-4ef5-a44e-f6f43eb9d929.png)
 
+Demo of gameplay: https://drive.google.com/file/d/1jHMyHdV_YKYW1zpBcmyvTslEEHqteIuw/view?usp=share_link
