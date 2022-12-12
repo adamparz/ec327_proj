@@ -1,4 +1,0 @@
-firingdelay = 5;
-
-
-
